@@ -1,17 +1,18 @@
 <<<<<<< HEAD
-//first line 
-//second line
-//third line
-//forth line
-//Master branch text here
-//origin/master text from github
-//vvv
-=======
 party 
 party
 party
 party
+//Master branch text here
+//origin/master text from github
+//vvv
+//last
+=======
+first line 
+second line
+third line
+forth line
 Master branch text here
 origin/master text from github
 vvv
->>>>>>> ab2f7db... Sample first commit
+>>>>>>> parent of 21253c6... Master commit with comments in all lines
